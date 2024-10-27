@@ -60,7 +60,7 @@ textarea {
   border-radius: 4px;
   border: 1px solid #ccc;
   resize: none;
-  font-size: 1.5em;
+  font-size: 0.8em;
   background-color: #ffffff;
 }
 
@@ -96,7 +96,7 @@ button:hover {
   border-radius: 4px;
   color: #ffffff;
   border: 1px solid rgba(255, 255, 255, 0.2);
-  font-size: 1.5em;
+  font-size: 1em;
 }
 .notes li strong {
   display: block; /* Display the timestamp in a block element */
